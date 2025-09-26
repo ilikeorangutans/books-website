@@ -3,26 +3,21 @@
     <url>
          <loc>https://books.apehouse.ca/</loc>
          <lastmod>1980-01-01</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.apehouse.ca/about/</loc>
          <lastmod>1980-01-01</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.apehouse.ca/changelog/</loc>
          <lastmod>1980-01-01</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.apehouse.ca/configuration/</loc>
          <lastmod>1980-01-01</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.apehouse.ca/opds/</loc>
          <lastmod>1980-01-01</lastmod>
-         <changefreq>daily</changefreq>
     </url>
 </urlset>
